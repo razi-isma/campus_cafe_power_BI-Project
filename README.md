@@ -2,6 +2,11 @@
 
 # 📊 Campus Cafe Sales & Profitability Analysis (Power BI)
 
+📂 **[Download Interactive Power BI Report (.pbix)](./campus_cafe_project%20power%20Bi.pbix)**  
+*(Download and open in Power BI Desktop to interact with full slicers, tooltips, and cross-filtering)*
+
+---
+
 ## 📌 Executive Summary
 This project analyzes sales performance, product profitability, and transaction patterns for a campus cafe network. The primary objective was to investigate a sudden dip in top-line revenue and identify actionable, data-driven strategies to improve profitability and average order value (AOV).
 
