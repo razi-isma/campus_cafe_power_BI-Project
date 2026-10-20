@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Executive Summary
-This project analyzes sales performance, product profitability, and transaction patterns for a campus cafe network. The primary objective was to investigate a sudden dip in top-line revenue and identify actionable, data-driven strategies to improve profitability and average order value (AOV).
+In this project I analysed sales performance, product profitability, and transaction patterns for a campus cafe network. The primary objective was to investigate a sudden dip in top-line revenue and identify actionable, data-driven strategies to improve profitability and average order value (AOV).
 
 ---
 
